@@ -27,7 +27,7 @@
   - Zero conhecimento técnico necessário
 
   📈 Impacto:
-  - ⏱️ 95% redução no tempo de análise (6h → 30s)
+  - ⏱️ 95% redução no tempo de análise 
   - 💰 R$ 15.000 economia/mês por analista
   - 🎯 Precisão igual ou superior a análises manuais
 
