@@ -50,7 +50,7 @@
   - 💰 R$ 25.000/mês economia em coordenação
   - 🎯 Qualidade superior por especialização
 
-  ### 🔄 [Robô Jurídico - Consultas Automáticas 24/7](./rpa-inteligente)
+  ### 🔄 [Robô Jurídico - Consultas Automáticas 24/7](https://github.com/danielgresende/rpa-inteligente)
   "IA que executa consultas em portais governamentais via comandos naturais - sem 
   intervenção humana"
 
@@ -77,4 +77,5 @@
   > *"Não vendo código. Entrego sistemas funcionais com inteligência embarcada."*
 > adiciona link do projeto IA Analista de Negócios
 > adiciona link do projeto Orquestrador Empresárial
+> adiciona link do projeto Robô Jurídico
 
