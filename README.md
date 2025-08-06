@@ -31,7 +31,7 @@
   - 💰 R$ 15.000 economia/mês por analista
   - 🎯 Precisão igual ou superior a análises manuais
 
-  ### 🤖 [Orquestrador Empresarial - 4 IAs Trabalhando Juntas](./orquestrador-multiagente)
+  ### 🤖 [Orquestrador Empresarial - 4 IAs Trabalhando Juntas](https://github.com/danielgresende/orquestrador-multiagente)
   "Sistema multi-agente que resolve problemas complexos distribuindo tarefas entre 
   especialistas"
 
@@ -76,4 +76,5 @@
 
   > *"Não vendo código. Entrego sistemas funcionais com inteligência embarcada."*
 > adiciona link do projeto IA Analista de Negócios
+> adiciona link do projeto Orquestrador Empresárial
 
