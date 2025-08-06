@@ -75,7 +75,5 @@
   🔗 **LinkedIn:** [linkedin.com/in/danielgresende](https://www.linkedin.com/in/danielgresende/)
 
   > *"Não vendo código. Entrego sistemas funcionais com inteligência embarcada."*
-> adiciona link do projeto IA Analista de Negócios
-> adiciona link do projeto Orquestrador Empresárial
-> adiciona link do projeto Robô Jurídico
+
 
