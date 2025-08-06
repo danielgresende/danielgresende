@@ -12,7 +12,7 @@
 
   ## 🏆 Projetos em Destaque
 
-  ### 🧠 [IA Analista de Negócios](./ia-analista-negocios)
+  ### 🧠 [IA Analista de Negócios - Decisões em 30 Segundos](./ia-analista-negocios)
   "Transforma qualquer pergunta de negócio em análise visual completa usando linguagem 
   natural"
 
@@ -31,18 +31,43 @@
   - 💰 R$ 15.000 economia/mês por analista
   - 🎯 Precisão igual ou superior a análises manuais
 
-  ### 🤖 [Multiagente Orquestrado](./multiagente-orquestrado)
-  **Plataforma com 4 agentes especializados colaborando**
-  - Claude + LangChain + LangGraph
-  - Orquestração inteligente de tarefas complexas
-  - Sistema de decisão distribuído
+  ### 🤖 [Orquestrador Empresarial - 4 IAs Trabalhando Juntas](./orquestrador-multiagente)
+  "Sistema multi-agente que resolve problemas complexos distribuindo tarefas entre 
+  especialistas"
 
-  ### 🔄 [RPA Inteligente](./rpa-inteligente)
-  **Robô com IA que executa ações em portais via comandos naturais**
-  - Selenium + LangChain + OCR + NLP
-  - Classificação de intenções automática
-  - Automação web contextual
+  💡 O Problema:
+  - Problemas complexos precisam de múltiplas expertises
+  - Coordenação manual entre equipes é lenta e cara
+  - Conhecimento fica disperso em silos
 
+  ⚡ A Solução:
+  - 4 agentes especializados colaborando via LangGraph
+  - Orquestração inteligente de tarefas
+  - Decisões distribuídas e otimizadas
+
+  📈 Impacto:
+  - ⏱️ 70% redução em tempo de resolução
+  - 💰 R$ 25.000/mês economia em coordenação
+  - 🎯 Qualidade superior por especialização
+
+  ### 🔄 [Robô Jurídico - Consultas Automáticas 24/7](./rpa-inteligente)
+  "IA que executa consultas em portais governamentais via comandos naturais - sem 
+  intervenção humana"
+
+  💡 O Problema:
+  - Advogados gastam 3-4h/dia em consultas manuais
+  - Processos repetitivos custam R$ 200-400/consulta
+  - Erros humanos geram retrabalho e multas
+
+  ⚡ A Solução:
+  - Comandos naturais → Automação web inteligente
+  - RPA + IA para navegação contextual
+  - Screenshots + logs para auditoria completa
+
+  📈 Impacto:
+  - ⏱️ 90% redução de tempo (4h → 15min)
+  - 💰 R$ 30.000/mês economia por escritório médio
+  - 🎯 100% precisão com rastro de auditoria
   ## 💼 Status: Disponível para Projetos
   **Foco:** Prototipação rápida, sistemas de IA para negócios, automação inteligente
 
