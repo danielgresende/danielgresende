@@ -12,7 +12,7 @@
 
   ## 🏆 Projetos em Destaque
 
-  ### 🧠 [IA Analista de Negócios - Decisões em 30 Segundos](./https://github.com/danielgresende/ia-analista-negocios)
+  ### 🧠 [IA Analista de Negócios - Decisões em 30 Segundos](https://github.com/danielgresende/ia-analista-negocios)
   "Transforma qualquer pergunta de negócio em análise visual completa usando linguagem 
   natural"
 
@@ -75,3 +75,5 @@
   🔗 **LinkedIn:** [linkedin.com/in/danielgresende](https://www.linkedin.com/in/danielgresende/)
 
   > *"Não vendo código. Entrego sistemas funcionais com inteligência embarcada."*
+> adiciona link do projeto IA Analista de Negócios
+
