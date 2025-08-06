@@ -12,11 +12,24 @@
 
   ## 🏆 Projetos em Destaque
 
-  ### 🧠 [Analista IA de Dados](./analista-ia-dados)
-  **IA que transforma perguntas em análises completas com visualizações**
-  - LangChain + Pandas + Streamlit
-  - Processamento de linguagem natural ➜ Query SQL ➜ Gráficos
-  - Pipeline completo de dados automatizado
+  ### 🧠 [IA Analista de Negócios](./ia-analista-negocios)
+  "Transforma qualquer pergunta de negócio em análise visual completa usando linguagem 
+  natural"
+
+  💡 O Problema:
+  - Analistas gastam 4-6h criando relatórios simples
+  - Gestores esperam dias por insights básicos
+  - 90% do tempo é perdido em queries e formatação
+
+  ⚡ A Solução:
+  - Conversa natural → SQL automático → Gráficos prontos
+  - Pipeline LangChain + Pandas integrado
+  - Zero conhecimento técnico necessário
+
+  📈 Impacto:
+  - ⏱️ 95% redução no tempo de análise (6h → 30s)
+  - 💰 R$ 15.000 economia/mês por analista
+  - 🎯 Precisão igual ou superior a análises manuais
 
   ### 🤖 [Multiagente Orquestrado](./multiagente-orquestrado)
   **Plataforma com 4 agentes especializados colaborando**
