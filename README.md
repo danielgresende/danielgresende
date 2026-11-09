@@ -1,6 +1,6 @@
 # Daniel Gomes Resende
 
-AI lead building agentic systems and production LLM platforms.
+AI Engineer building agentic systems and production LLM platforms.
 
 I design and ship AI systems end to end, from strategy to production: agents that act on real systems behind a verifiable safety boundary, independent verification of AI-written code, and private multimodal interaction (real-time voice, video, documents).
 
