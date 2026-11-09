@@ -1,8 +1,8 @@
 # Daniel Gomes Resende
 
-AI Engineer building agentic systems and production LLM platforms.
+AI engineer building agentic systems and production LLM platforms.
 
-I design and ship AI systems end to end, from strategy to production: agents that act on real systems behind a verifiable safety boundary, independent verification of AI-written code, and private multimodal interaction (real-time voice, video, documents).
+I build AI systems end to end, from strategy to production: agents that act on real systems behind a verifiable safety boundary, independent verification of AI-written code, and private multimodal interaction (real-time voice, video, documents).
 
 **Featured work**
 - [Torvun case study](https://github.com/danielgresende/torvun-case-study): a self-hosted platform where AI agents run companies. Architecture, engineering decisions and screenshots.
